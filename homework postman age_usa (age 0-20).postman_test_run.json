@@ -1,0 +1,84 @@
+{
+	"id": "3b68518a-9594-4c4f-a045-40a0e46aa0e6",
+	"name": "homework postman age_usa (age 0-20)",
+	"timestamp": "2021-04-22T16:51:56.159Z",
+	"collection_id": "d5828b1c-cc46-4a21-b987-ac7990a2c437",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "941c2e21-a5ea-46fd-ba5e-8debe740a877",
+			"name": "(test1age_usa)",
+			"url": "http://116.203.27.46:5002/age_usa",
+			"time": 123,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				123
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "084c009b-acc5-4b12-ad7d-822b3f44fb92",
+			"name": "(test2age_usa)",
+			"url": "http://116.203.27.46:5002/age_usa",
+			"time": 105,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				105
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "3c6e4996-2db7-44e3-8254-95b4590e9819",
+			"name": "(test3age_usa)",
+			"url": "http://116.203.27.46:5002/age_usa",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				118
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 346,
+	"collection": {
+		"requests": [
+			{
+				"id": "941c2e21-a5ea-46fd-ba5e-8debe740a877",
+				"method": "POST"
+			},
+			{
+				"id": "084c009b-acc5-4b12-ad7d-822b3f44fb92",
+				"method": "POST"
+			},
+			{
+				"id": "3c6e4996-2db7-44e3-8254-95b4590e9819",
+				"method": "POST"
+			}
+		]
+	}
+}

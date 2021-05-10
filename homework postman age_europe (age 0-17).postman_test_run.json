@@ -1,0 +1,106 @@
+{
+	"id": "80003c8b-6577-47d4-906f-14ebbb674b3e",
+	"name": "homework postman age_europe (age 0-17)",
+	"timestamp": "2021-04-22T16:50:39.284Z",
+	"collection_id": "dfbd8ac2-d70b-44e3-a98c-e6f7c01917f5",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "c5adebcf-27fd-44ac-a1ab-da24619cf2ac",
+			"name": "(test 1)age_europe",
+			"url": "http://116.203.27.46:5002/age_europe",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				115
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "cc36acca-1f59-418c-abd7-114276459b29",
+			"name": "(test2)age_europe",
+			"url": "http://116.203.27.46:5002/age_europe",
+			"time": 107,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				107
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "fd76793d-df2a-4996-951c-1da747bf13f9",
+			"name": "(test3)age_europe",
+			"url": "http://116.203.27.46:5002/age_europe",
+			"time": 121,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				121
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d939e84e-0fac-46d3-8a71-93383e16a27b",
+			"name": "(test4)age_europe",
+			"url": "http://116.203.27.46:5002/age_europe",
+			"time": 111,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				111
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 454,
+	"collection": {
+		"requests": [
+			{
+				"id": "c5adebcf-27fd-44ac-a1ab-da24619cf2ac",
+				"method": "POST"
+			},
+			{
+				"id": "cc36acca-1f59-418c-abd7-114276459b29",
+				"method": "POST"
+			},
+			{
+				"id": "fd76793d-df2a-4996-951c-1da747bf13f9",
+				"method": "POST"
+			},
+			{
+				"id": "d939e84e-0fac-46d3-8a71-93383e16a27b",
+				"method": "POST"
+			}
+		]
+	}
+}

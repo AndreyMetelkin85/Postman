@@ -1,0 +1,84 @@
+{
+	"id": "f555049c-3a03-4adf-a15b-1f86b13d04c0",
+	"name": "homework postman age_usa (age 21-50)",
+	"timestamp": "2021-04-22T16:52:11.055Z",
+	"collection_id": "6e705592-e0e6-43bf-a7a8-511e688ef9be",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "13caa0f3-26b5-469d-bbd1-fc8de5dc3358",
+			"name": "(test1age_usa)",
+			"url": "http://116.203.27.46:5002/age_usa",
+			"time": 115,
+			"responseCode": {
+				"code": 500,
+				"name": "INTERNAL SERVER ERROR"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				115
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "de758dde-a781-4514-aef6-b6b5f6a65aef",
+			"name": "(test2age_usa)",
+			"url": "http://116.203.27.46:5002/age_usa",
+			"time": 106,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				106
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "143337d9-d5af-4b08-844c-63ba64421a92",
+			"name": "(test3age_usa)",
+			"url": "http://116.203.27.46:5002/age_usa",
+			"time": 106,
+			"responseCode": {
+				"code": 500,
+				"name": "INTERNAL SERVER ERROR"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				106
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 327,
+	"collection": {
+		"requests": [
+			{
+				"id": "13caa0f3-26b5-469d-bbd1-fc8de5dc3358",
+				"method": "POST"
+			},
+			{
+				"id": "de758dde-a781-4514-aef6-b6b5f6a65aef",
+				"method": "POST"
+			},
+			{
+				"id": "143337d9-d5af-4b08-844c-63ba64421a92",
+				"method": "POST"
+			}
+		]
+	}
+}

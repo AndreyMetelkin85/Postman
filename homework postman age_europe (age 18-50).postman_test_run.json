@@ -1,0 +1,128 @@
+{
+	"id": "e3af214a-9461-40c7-970c-fb9bfd0f54bc",
+	"name": "homework postman age_europe (age 18-50)",
+	"timestamp": "2021-04-22T16:51:13.165Z",
+	"collection_id": "24012050-8ca6-415c-b482-0bf144b65b68",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "39440ff9-4d9f-4e7f-897f-ada3d035309d",
+			"name": "(test1)age_europe",
+			"url": "http://116.203.27.46:5002/age_europe",
+			"time": 113,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				113
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "2b1b6987-7dc3-4330-abda-3aef69930546",
+			"name": "(test2age_europe)",
+			"url": "http://116.203.27.46:5002/age_europe",
+			"time": 107,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				107
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "c8c7d90b-f086-40c2-ac5e-04a0db3dbde4",
+			"name": "(test3age_europe)",
+			"url": "http://116.203.27.46:5002/age_europe",
+			"time": 121,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				121
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "51d250cf-5a29-44ed-8b3d-52e8ec2125be",
+			"name": "(test4age_europe)",
+			"url": "http://116.203.27.46:5002/age_europe",
+			"time": 103,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				103
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "41060c49-cdcb-4610-8262-a4ddf40e3ac7",
+			"name": "(test5age_europe)",
+			"url": "http://116.203.27.46:5002/age_europe",
+			"time": 106,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				106
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 550,
+	"collection": {
+		"requests": [
+			{
+				"id": "39440ff9-4d9f-4e7f-897f-ada3d035309d",
+				"method": "POST"
+			},
+			{
+				"id": "2b1b6987-7dc3-4330-abda-3aef69930546",
+				"method": "POST"
+			},
+			{
+				"id": "c8c7d90b-f086-40c2-ac5e-04a0db3dbde4",
+				"method": "POST"
+			},
+			{
+				"id": "51d250cf-5a29-44ed-8b3d-52e8ec2125be",
+				"method": "POST"
+			},
+			{
+				"id": "41060c49-cdcb-4610-8262-a4ddf40e3ac7",
+				"method": "POST"
+			}
+		]
+	}
+}
